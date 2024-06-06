@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\SEM4\\APBD\\apbd11-cwiczenia9\\Cwiczenia9\\Cwiczenia9\\Cwiczenia9.csproj": {}
+    "D:\\STUDIA PJATK\\SEMSETR 4\\APBD\\apbd11-cwiczenia9\\Cwiczenia9\\Cwiczenia9\\Cwiczenia9.csproj": {}
   },
   "projects": {
-    "Z:\\SEM4\\APBD\\apbd11-cwiczenia9\\Cwiczenia9\\Cwiczenia9\\Cwiczenia9.csproj": {
+    "D:\\STUDIA PJATK\\SEMSETR 4\\APBD\\apbd11-cwiczenia9\\Cwiczenia9\\Cwiczenia9\\Cwiczenia9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\SEM4\\APBD\\apbd11-cwiczenia9\\Cwiczenia9\\Cwiczenia9\\Cwiczenia9.csproj",
+        "projectUniqueName": "D:\\STUDIA PJATK\\SEMSETR 4\\APBD\\apbd11-cwiczenia9\\Cwiczenia9\\Cwiczenia9\\Cwiczenia9.csproj",
         "projectName": "Cwiczenia9",
-        "projectPath": "Z:\\SEM4\\APBD\\apbd11-cwiczenia9\\Cwiczenia9\\Cwiczenia9\\Cwiczenia9.csproj",
-        "packagesPath": "C:\\Users\\s28005\\.nuget\\packages\\",
-        "outputPath": "Z:\\SEM4\\APBD\\apbd11-cwiczenia9\\Cwiczenia9\\Cwiczenia9\\obj\\",
+        "projectPath": "D:\\STUDIA PJATK\\SEMSETR 4\\APBD\\apbd11-cwiczenia9\\Cwiczenia9\\Cwiczenia9\\Cwiczenia9.csproj",
+        "packagesPath": "C:\\Users\\Stasiek\\.nuget\\packages\\",
+        "outputPath": "D:\\STUDIA PJATK\\SEMSETR 4\\APBD\\apbd11-cwiczenia9\\Cwiczenia9\\Cwiczenia9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s28005\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Stasiek\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -83,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Stasiek\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
